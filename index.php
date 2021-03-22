@@ -5,6 +5,8 @@
 	header("X-XSS-Protection: 1; mode=block");
 	header("Referrer-Policy: no-referrer");
 	header("Content-Security-Policy: default-src 'self';");
+
+	$page_name = "Home";
 ?>
 
 <!DOCTYPE html>
@@ -23,7 +25,7 @@
 	<header class="container">
 		<h1><span class="hide-on-mobile">Herzlich </span>Willkommen.</h1>
 		<nav>
-			<a href="index.php">Home</a>
+			<a href="index.php" <?=($page_name=="Home"?'class="active"':'')?>>Home</a>
 			<a href="https://pfadiangenstein.ch" target="_blank" rel="noopener noreferrer">Pfadi Angenstein</a>
 		</nav>
 	</header>
