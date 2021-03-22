@@ -59,15 +59,18 @@ header nav {
 	}
 }
 
-header nav a {
+nav a {
 	padding: 0 1em;
 	line-height: calc(2.5em - 4px);
 	border: 2px solid var(--color-bg);
 	text-decoration: none;
 }
 
-nav a:hover,
 nav a.active {
+	border-bottom: 2px solid var(--barotte);
+}
+
+nav a:hover {
 	border-color: var(--barotte);
 	filter: none;
 	color: inherit;
@@ -77,4 +80,8 @@ nav a.active {
 nav a:active {
 	background-color: var(--barotte);
 	color: white;
+}
+
+nav a:not(:first-child) {
+	margin-left: 1rem;
 }

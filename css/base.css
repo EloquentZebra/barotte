@@ -529,6 +529,7 @@ thead {
 
 thead th {
 	height: 2rem;
+	padding: 0.5rem;
 	vertical-align: middle;
 	text-align: left;
 	font-size: inherit;
