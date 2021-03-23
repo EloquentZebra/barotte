@@ -15,6 +15,11 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="keywords" content="Pfadi, Barotte, Pfadi Angenstein, Roverrotte, Angenstein, Rover">
+	<meta name="description" content="Die Barotte ist eine der Roverrotten der Pfadi Angenstein">
+	<meta name="author" content="Jonas Grüter / Kaa">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="theme-color" content="#c82626">
 	<meta name="robots" content="index,nofollow">
 	<meta name="referrer" content="no-referrer">
 	<title>Barotte</title>
