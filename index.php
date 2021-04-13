@@ -28,11 +28,8 @@
 </head>
 <body class="enable-dm">
 	<header class="container">
-		<h1><span class="hide-on-mobile">Herzlich </span>Willkommen.</h1>
-		<nav>
-			<a href="index.php" <?=($page_name=="Home"?'class="active"':'')?>>Home</a>
-			<a href="https://pfadiangenstein.ch" target="_blank" rel="noopener noreferrer">Pfadi Angenstein</a>
-		</nav>
+		<h1>Barotte. <span class="neutral">Willkommen</span></h1>
+		<?php include('includes/nav.php'); ?>
 	</header>
 
 	<main class="container">
@@ -78,9 +75,7 @@
 			</article>
 	</main>
 
-	<footer class="container text-center">
-		<p>&copy; Barotte</p>
-	</footer>
+	<?php include('includes/footer.php'); ?>
 
 </body>
 </html>
