@@ -54,7 +54,7 @@
 						<tr>
 							<td>29.05.2021</td>
 							<td>später Nachmittag & Abend</td>
-							<td>Vereinsversammlung</td>
+							<td>Vereinsversammlung (<a href="downloads/vv3_einladung.pdf">Einladung</a>)</td>
 							<td>tba</td>
 						</tr>
 					</tbody>
