@@ -41,6 +41,10 @@ header h1 {
 	line-height: 1;
 }
 
+header h1 .neutral {
+	color: var(--color-text);
+}
+
 header nav {
 	flex: 1;
 
@@ -84,4 +88,12 @@ nav a:active {
 
 nav a:not(:first-child) {
 	margin-left: 1rem;
+}
+
+.table-container {
+	overflow-x: auto;
+}
+
+.table-container table {
+	min-width: 1800px;
 }
