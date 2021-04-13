@@ -71,7 +71,7 @@
 					<li>Pascal Vollgraff / <strong>Bugs</strong> (Beisitzer)</li>
 				</ul>
 
-				<p>Der Vorstand kann per E-Mail an <a href="mailto:barotte@pfadiangenstein.ch">barotte@pfadiangenstein.ch</a> erreicht werden.</p>
+				<p>Der Vorstand kann per E-Mail an <a href="mailto:vorstand@barotte.pfadiangenstein.ch">vorstand@barotte.pfadiangenstein.ch</a> erreicht werden.</p>
 			</article>
 	</main>
 
