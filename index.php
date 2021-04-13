@@ -28,7 +28,7 @@
 </head>
 <body class="enable-dm">
 	<header class="container">
-		<h1>Barotte. <span class="neutral">Willkommen</span></h1>
+		<h1><a href="index.php">Barotte.</a> <span class="neutral hide-on-mobile">Willkommen</span></h1>
 		<?php include('includes/nav.php'); ?>
 	</header>
 
