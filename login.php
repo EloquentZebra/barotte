@@ -1,6 +1,8 @@
 <?php
 	session_start();
 
+	require('includes/credentials.php');
+
 	if(isset($_POST['submit'])){
 		$pwlogin = $pwinclude;
 
